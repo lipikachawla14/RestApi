@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22254" started-at="2019-11-01T18:05:26Z" finished-at="2019-11-01T18:05:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22254" started-at="2019-11-01T18:05:26Z" finished-at="2019-11-01T18:05:48Z">
+      <class name="testCases.TestCases">
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.TestCases@17579e0f]" name="start" is-config="true" duration-ms="27" started-at="2019-11-01T18:05:26Z" finished-at="2019-11-01T18:05:26Z">
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="get_list()[pri:1, instance:testCases.TestCases@17579e0f]" name="get_list" duration-ms="4010" started-at="2019-11-01T18:05:26Z" finished-at="2019-11-01T18:05:30Z">
+        </test-method> <!-- get_list -->
+        <test-method status="PASS" signature="get_specificList()[pri:2, instance:testCases.TestCases@17579e0f]" name="get_specificList" duration-ms="1229" started-at="2019-11-01T18:05:30Z" finished-at="2019-11-01T18:05:31Z">
+        </test-method> <!-- get_specificList -->
+        <test-method status="PASS" signature="post_List()[pri:3, instance:testCases.TestCases@17579e0f]" name="post_List" duration-ms="2790" started-at="2019-11-01T18:05:31Z" finished-at="2019-11-01T18:05:34Z">
+        </test-method> <!-- post_List -->
+        <test-method status="PASS" signature="post_Task()[pri:4, instance:testCases.TestCases@17579e0f]" name="post_Task" duration-ms="2423" started-at="2019-11-01T18:05:34Z" finished-at="2019-11-01T18:05:36Z">
+        </test-method> <!-- post_Task -->
+        <test-method status="PASS" signature="put_List()[pri:5, instance:testCases.TestCases@17579e0f]" name="put_List" duration-ms="2166" started-at="2019-11-01T18:05:36Z" finished-at="2019-11-01T18:05:38Z">
+        </test-method> <!-- put_List -->
+        <test-method status="PASS" signature="patch_list()[pri:6, instance:testCases.TestCases@17579e0f]" name="patch_list" duration-ms="2228" started-at="2019-11-01T18:05:38Z" finished-at="2019-11-01T18:05:41Z">
+        </test-method> <!-- patch_list -->
+        <test-method status="PASS" signature="put_task()[pri:7, instance:testCases.TestCases@17579e0f]" name="put_task" duration-ms="1242" started-at="2019-11-01T18:05:41Z" finished-at="2019-11-01T18:05:42Z">
+        </test-method> <!-- put_task -->
+        <test-method status="PASS" signature="patch_task()[pri:8, instance:testCases.TestCases@17579e0f]" name="patch_task" duration-ms="2390" started-at="2019-11-01T18:05:42Z" finished-at="2019-11-01T18:05:44Z">
+        </test-method> <!-- patch_task -->
+        <test-method status="PASS" signature="delete_list()[pri:9, instance:testCases.TestCases@17579e0f]" name="delete_list" duration-ms="2210" started-at="2019-11-01T18:05:44Z" finished-at="2019-11-01T18:05:47Z">
+        </test-method> <!-- delete_list -->
+        <test-method status="PASS" signature="delete_task()[pri:10, instance:testCases.TestCases@17579e0f]" name="delete_task" duration-ms="1321" started-at="2019-11-01T18:05:47Z" finished-at="2019-11-01T18:05:48Z">
+        </test-method> <!-- delete_task -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:testCases.TestCases@17579e0f]" name="refresh" is-config="true" duration-ms="191" started-at="2019-11-01T18:05:48Z" finished-at="2019-11-01T18:05:48Z">
+        </test-method> <!-- refresh -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
